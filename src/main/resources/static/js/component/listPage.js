@@ -18,7 +18,7 @@ define(function() {
               },
               {
                   id: tableId,
-                  view: 'datat  able',
+                  view: 'datatable',
                   columns: columns,
                   url: url,
                   save: url,
