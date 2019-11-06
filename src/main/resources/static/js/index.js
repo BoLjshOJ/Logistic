@@ -38,7 +38,8 @@ require(
                     view: "toolbar",
                     cols: [
                         buildButton('Home', ''),
-                        buildButton('Marks', 'marks')
+                        buildButton('Marks', 'marks'),
+                        buildButton('Cars', 'cars')
                     ]
                 },
                 {
